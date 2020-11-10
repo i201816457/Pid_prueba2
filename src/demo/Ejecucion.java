@@ -7,6 +7,7 @@ public class Ejecucion {
 		int y=2;
 		int z=3;
 		int m =4;
+		int q=5;
 		
 		System.out.println(x);
 		System.out.println(y);
